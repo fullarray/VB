@@ -1,1 +1,1 @@
-This is a sample file in using git.
+This is my Git repository for projects based solely on Visual Basic (VB)
