@@ -1,0 +1,5 @@
+A branch is used if you have 2 different versions of repository at the same time. A tag is a way to mark a point in time in your repository.
+
+You should add a tag to mark a released version. If you then need to make bug fixes to that release you would create a branch at the tag.
+
+You only want to delete branches that have been merged back into the HEAD [or some other branch]
